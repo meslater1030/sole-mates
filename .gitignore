@@ -1,2 +1,7 @@
 # Ignore binary
 service
+
+# Ignore dev tooling
+.vscode/
+
+.DS_Store
